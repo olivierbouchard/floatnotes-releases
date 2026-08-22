@@ -1,0 +1,13 @@
+{
+  "version": "1.3.0",
+  "build": 5,
+  "publishedAt": "2026-08-22",
+  "minimumSystemVersion": "13.0",
+  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.3.0/FloatNotes-1.3.0.dmg",
+  "sha256": "9a072a771533db85e48ec378c303434be8eb4aa7f8a8c0d51a7d43adf9ebad4a",
+  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.3.0",
+  "notes": {
+    "fr": "Assistant de premier lancement, création du fichier journal depuis les réglages, et le changement de dossier de notes prend effet immédiatement.",
+    "en": "First-run setup assistant, journal file creation from Settings, and switching notes folder now takes effect immediately."
+  }
+}
