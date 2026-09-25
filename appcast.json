@@ -1,13 +1,13 @@
 {
-  "version": "1.4.0",
-  "build": 6,
-  "publishedAt": "2026-08-22",
+  "version": "1.4.1",
+  "build": 7,
+  "publishedAt": "2026-09-24",
   "minimumSystemVersion": "13.0",
-  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.0/FloatNotes-1.4.0.dmg",
-  "sha256": "93706a289a4db02d8813ffe4e137775cb5b13ff64b82152a5718d38c6a5be0f4",
-  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.0",
+  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.1/FloatNotes-1.4.1.dmg",
+  "sha256": "879344c43930938e489e643e4aad6ae26f39cbc002994a4ff8818ab3ebf617e8",
+  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.1",
   "notes": {
-    "fr": "Mise à jour automatique : l'app se met à jour toute seule, sans commande à taper dans le Terminal.",
-    "en": "Automatic updates: the app now updates itself, with no Terminal command to type."
+    "fr": "Fermeture du panneau plus fluide. Améliorations internes.",
+    "en": "Smoother panel closing. Internal improvements."
   }
 }
