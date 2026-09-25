@@ -1,13 +1,13 @@
 {
-  "version": "1.4.3",
-  "build": 9,
-  "publishedAt": "2026-09-24",
+  "version": "1.5.0",
+  "build": 10,
+  "publishedAt": "2026-09-25",
   "minimumSystemVersion": "13.0",
-  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.3/FloatNotes-1.4.3.dmg",
-  "sha256": "b464e62391c24fa8fd762cb82c80fa3185a7726d78fd6126e8ab53c5562111ee",
-  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.3",
+  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.5.0/FloatNotes-1.5.0.dmg",
+  "sha256": "16aaa2ce3bedacf1cb816f585d8025a5dbeb8f976dc65292bc26bfe17b9f2f0f",
+  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.5.0",
   "notes": {
-    "fr": "Menu / : reste en place pendant la saisie, visible en mode Markdown, disponible en français.",
-    "en": "/ menu: stays in place while typing, visible in Markdown mode, now in French."
+    "fr": "Nouveaux réglages : taille et police du texte, thème qui suit macOS, format de l'horodatage, raccourci « nouvelle note ». ⌘B / ⌘I / ⌘U dans l'éditeur. La dernière note se rouvre au démarrage. Le souligné est conservé.",
+    "en": "New settings: text size and font, theme that follows macOS, timestamp format, « new note » shortcut. ⌘B / ⌘I / ⌘U in the editor. The last note reopens at launch. Underline is preserved."
   }
 }
