@@ -1,13 +1,13 @@
 {
-  "version": "1.4.1",
-  "build": 7,
+  "version": "1.4.2",
+  "build": 8,
   "publishedAt": "2026-09-24",
   "minimumSystemVersion": "13.0",
-  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.1/FloatNotes-1.4.1.dmg",
-  "sha256": "879344c43930938e489e643e4aad6ae26f39cbc002994a4ff8818ab3ebf617e8",
-  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.1",
+  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.2/FloatNotes-1.4.2.dmg",
+  "sha256": "2591d22b5a68381720c5e2889f358bd2c6a1a9afd42362775f452e556d6537d5",
+  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.2",
   "notes": {
-    "fr": "Fermeture du panneau plus fluide. Améliorations internes.",
-    "en": "Smoother panel closing. Internal improvements."
+    "fr": "Correction : une note impossible à mettre à la corbeille garde son épingle et ses modifications en cours.",
+    "en": "Fix: a note that cannot be moved to the Trash keeps its pin and unsaved edits."
   }
 }
