@@ -1,13 +1,13 @@
 {
-  "version": "1.4.2",
-  "build": 8,
+  "version": "1.4.3",
+  "build": 9,
   "publishedAt": "2026-09-24",
   "minimumSystemVersion": "13.0",
-  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.2/FloatNotes-1.4.2.dmg",
-  "sha256": "2591d22b5a68381720c5e2889f358bd2c6a1a9afd42362775f452e556d6537d5",
-  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.2",
+  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.4.3/FloatNotes-1.4.3.dmg",
+  "sha256": "b464e62391c24fa8fd762cb82c80fa3185a7726d78fd6126e8ab53c5562111ee",
+  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.4.3",
   "notes": {
-    "fr": "Correction : une note impossible à mettre à la corbeille garde son épingle et ses modifications en cours.",
-    "en": "Fix: a note that cannot be moved to the Trash keeps its pin and unsaved edits."
+    "fr": "Menu / : reste en place pendant la saisie, visible en mode Markdown, disponible en français.",
+    "en": "/ menu: stays in place while typing, visible in Markdown mode, now in French."
   }
 }
