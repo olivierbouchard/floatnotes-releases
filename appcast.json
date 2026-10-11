@@ -1,13 +1,13 @@
 {
-  "version": "1.5.0",
-  "build": 10,
-  "publishedAt": "2026-09-25",
+  "version": "1.6.0",
+  "build": 11,
+  "publishedAt": "2026-10-11",
   "minimumSystemVersion": "13.0",
-  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.5.0/FloatNotes-1.5.0.dmg",
-  "sha256": "16aaa2ce3bedacf1cb816f585d8025a5dbeb8f976dc65292bc26bfe17b9f2f0f",
-  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.5.0",
+  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.6.0/FloatNotes-1.6.0.dmg",
+  "sha256": "f410fe29785877495fda2eaea950d2461ffa2883fa109b078ddfcc683275244c",
+  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.6.0",
   "notes": {
-    "fr": "Nouveaux réglages : taille et police du texte, thème qui suit macOS, format de l'horodatage, raccourci « nouvelle note ». ⌘B / ⌘I / ⌘U dans l'éditeur. La dernière note se rouvre au démarrage. Le souligné est conservé.",
-    "en": "New settings: text size and font, theme that follows macOS, timestamp format, « new note » shortcut. ⌘B / ⌘I / ⌘U in the editor. The last note reopens at launch. Underline is preserved."
+    "fr": "Liste de notes façon Finder : un clic surligne, la flèche déplie un dossier sur place, un double-clic ouvre la note ou entre dans le dossier, un clic lent sur le nom renomme. Navigation au clavier : flèches, ⌘↓ pour ouvrir, Entrée pour renommer.",
+    "en": "Finder-style note list: a click highlights, the arrow expands a folder in place, a double-click opens the note or enters the folder, a slow click on the name renames. Keyboard navigation: arrow keys, ⌘↓ to open, Return to rename."
   }
 }
