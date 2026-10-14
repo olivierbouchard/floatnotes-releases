@@ -1,13 +1,13 @@
 {
-  "version": "1.6.0",
-  "build": 11,
-  "publishedAt": "2026-10-11",
+  "version": "1.7.0",
+  "build": 12,
+  "publishedAt": "2026-10-14",
   "minimumSystemVersion": "13.0",
-  "url": "https://github.com/olivierbouchard/floatnotes-releases/releases/download/v1.6.0/FloatNotes-1.6.0.dmg",
-  "sha256": "f410fe29785877495fda2eaea950d2461ffa2883fa109b078ddfcc683275244c",
-  "notesURL": "https://github.com/olivierbouchard/floatnotes-releases/releases/tag/v1.6.0",
+  "url": "https://app.wasted.land/floatnotes/download/FloatNotes-1.7.0.dmg",
+  "sha256": "08d5a570e4442f876046547487f88f806c13ddee8747b81e490105a70921d4dc",
+  "notesURL": "https://app.wasted.land/floatnotes/",
   "notes": {
-    "fr": "Liste de notes façon Finder : un clic surligne, la flèche déplie un dossier sur place, un double-clic ouvre la note ou entre dans le dossier, un clic lent sur le nom renomme. Navigation au clavier : flèches, ⌘↓ pour ouvrir, Entrée pour renommer.",
-    "en": "Finder-style note list: a click highlights, the arrow expands a folder in place, a double-click opens the note or enters the folder, a slow click on the name renames. Keyboard navigation: arrow keys, ⌘↓ to open, Return to rename."
+    "fr": "• Les notes modifiées dans une autre app (Nextcloud, un autre éditeur) se rechargent en direct, et ne sont plus jamais écrasées par une version plus ancienne.\n• Si vous tapiez au même moment, FloatNotes demande : recharger, ou garder la vôtre (l'autre version est gardée à côté de la note).\n• Nouvel onglet Mises à jour dans les réglages : fréquence de vérification, notifications des nouvelles versions, Vérifier maintenant.\n• Les mises à jour viennent désormais de app.wasted.land.",
+    "en": "• Notes changed in another app (Nextcloud, another editor) now reload live, and are never overwritten by an older version.\n• If you were typing at the same time, FloatNotes asks: reload, or keep yours (the other version is saved next to the note).\n• New Updates tab in Settings: how often to check, notifications for new versions, Check Now.\n• Updates now come from app.wasted.land."
   }
 }
